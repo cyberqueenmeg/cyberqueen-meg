@@ -2,6 +2,10 @@
 
 ### I'm Megan, a college student studying cybersecurity at Grand Canyon University. I'm a bug bounty hunter, programmer, open-source developer and contributor, cybersecurity nerd, musician, student of life, and member of the cybersecurity workforce!
 
+[![Linkedin Badge](https://img.shields.io/badge/-cyberqueenmeg?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/megan-howell-cybersecurity/)](https://www.linkedin.com/in/megan-howell-cybersecurity/)
+[![Medium Badge](https://img.shields.io/badge/-@cyberqueenmeg?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@cyberqueenmeg)](https://medium.com/@cyberqueenmeg)
+[![Twitter Badge](https://img.shields.io/badge/-@__cyberqueenmeg?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyberqueenmeg)](https://twitter.com/cyberqueenmeg)
+
 Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/cyberqueenmeg/count.svg)
 
